@@ -1,6 +1,6 @@
 # Gwent_Online
-This is a multiplayer version of the card game Gwent, from The Witcher 3.  
-The client is developed with C++ and OpenScenGraph, and it is developed by me, <i>Yiran Zheng</i>.  
+This is a multiplayer version of the card game Gwent, from <b>The Witcher 3</b>.  
+The client is developed with C++ and <b>OpenScenGraph</b>, and it is developed by me, <i>Yiran Zheng</i>.  
 The server is developed with C++ and Socket, and it is developed by my friend, <i>Shengjie Hu</i>.  
   
 <b>Manual:  </b>
@@ -19,8 +19,10 @@ If you want to end your turn, or give up your round, press Q.
 After finishing the whole game, a message box will appear to show you the result of the battle. Then you will be able to connect to the server again and have an other card battle.  
   
 <b>To build the project:  </b>
-I used Visual Studio 2012 to develop it, other versions of Visual Studio or other IDEs should also be fine to use.  
-As I used OpenSceneGraph to implement the graphics, OpenSceneGraph should be installed in advance.  
-To install OpenSceneGraph, see:  
+I used Visual Studio 2012 developing it, other versions of Visual Studio or other IDEs should also be fine to use.  
+As I used <b>OpenSceneGraph</b> to implement the graphics, <b>OpenSceneGraph</b> should be installed in advance.  
+To install <b>OpenSceneGraph</b>, see:  
+http://www.openscenegraph.org/index.php/documentation/getting-started  
+More information about this OpenGL-based graphics toolkit:  
 http://www.openscenegraph.org/  
-*The version of OpenSceneGraph I used is 3.2.0, it should be okay to use any newer versions.
+*The version of OpenSceneGraph I used is 3.2.0, it may be okay to use any newer versions.
