@@ -3,7 +3,7 @@ This is a multiplayer version of the card game Gwent, from <b>The Witcher 3</b>.
 The client is developed with C++ and <b>OpenScenGraph</b>, and it is developed by me, <i>Yiran Zheng</i>.  
 The server is developed with C++ and Socket, and it is developed by my friend, <i>Shengjie Hu</i>.  
   
-<b>Manual:  </b>
+<b>Manual:</b>  
 About the rules of the Gwent, see:  
 http://witcher.wikia.com/wiki/Gwent  
 *Notice: this game only contains a card deck for Northern Realms.  
@@ -18,7 +18,7 @@ If you want to end your turn, or give up your round, press Q.
   
 After finishing the whole game, a message box will appear to show you the result of the battle. Then you will be able to connect to the server again and have an other card battle.  
   
-<b>To build the project:  </b>
+<b>To build the project:</b>  
 I used Visual Studio 2012 developing it, other versions of Visual Studio or other IDEs should also be fine to use.  
 As I used <b>OpenSceneGraph</b> to implement the graphics, <b>OpenSceneGraph</b> should be installed in advance.  
 To install <b>OpenSceneGraph</b>, see:  
