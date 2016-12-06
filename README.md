@@ -1,8 +1,12 @@
 # Gwent_Online
 This is a multiplayer version of the card game Gwent, from <b>The Witcher 3</b>.  
+Now CD Projekt has their offical Gwent game, see:  
+https://www.playgwent.com/  
+We developed this game in the early 2016, at that time CD Projekt didn't announced their Gwent game.  
+
 The client is developed with C++ and <b>OpenScenGraph</b>, by me, <i>Yiran Zheng</i>.  
 The server is developed with C++ and Socket, by my friend, <i>Shengjie Hu</i>.  
-  
+We are both fans of the Witcher series, we just want to build a game that we both love and could play together with.  
   
 <b>To build the project:</b>  
 I used Visual Studio 2012 developing it, other versions of Visual Studio or other IDEs should also be fine to use.  
