@@ -15,7 +15,8 @@ To install <b>OpenSceneGraph</b>, see:
 http://www.openscenegraph.org/index.php/documentation/getting-started  
 More information about this OpenGL-based graphics toolkit:  
 http://www.openscenegraph.org/  
-*The version of OpenSceneGraph I used is 3.2.0, it may be okay to use any newer versions.
+*The version of OpenSceneGraph I used is 3.2.0, it may be okay to use any newer versions.  
+*This program is not able to be built on Mac or Linux.  
   
 <b>Manual:</b>  
 About the rules of the Gwent, see:  
